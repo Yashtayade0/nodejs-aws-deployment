@@ -42,7 +42,6 @@ app.get('/', (req, res) => {
             <h1>🚀 Node.js AWS Deployment</h1>
             <h2>Hello World!!</h2>
             <h2>Checking CI CD SETUP</h2>
-            <h1>Gaurav Is nice boy </h1>
 
             <p>This application is deployed on <b>AWS EC2</b> using:</p>
 
